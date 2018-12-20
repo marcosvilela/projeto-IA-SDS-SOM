@@ -1,0 +1,20 @@
+IDENTIFICADOR (Essa coluna será utilizada no mapa),AIS (Essa coluna será usada no mapa) (Serão 27 AISs -> 27 colunas),IDADE (Essa coluna será usad ano mapa),BI CVLI,PROCESSO CVLI,BI CVP,PROCESSO CVP,QTD CVP (Essa coluna será usada no mapa),QTD CVLI (essa coluna será usada no mapa),PERICULOSIDADE (BI - MP - PROCESSO)  (Essa coluna será usada no mapa -> Criar classes para melhorar visualização) (Tipo numérico),"STATUS DE EVASÃO (Essa coluna será usada no mapa -> Evadido = 1, não-Evadido = 0)",PRONTUÁRIO SERES (Essa coluna será usada no mapa) (Tipo: Binário),TOTAL DE VÍTIMAS-CONSUMADO (Essa coluna será usada no mapa) (Tipo numérico)
+1,1,26,2,0,1,9,10,2,12,0,0,8
+2,1,32,2,2,4,2,6,4,10,0,0,5
+3,6,49,4,1,1,1,2,5,7,1,1,7
+4,3,21,0,0,5,5,10,0,10,0,1,9
+5,1,19,3,3,6,7,13,6,19,1,1,2
+6,1,31,5,1,9,8,17,6,23,0,0,10
+7,7,45,1,1,11,9,20,2,22,0,0,4
+8,1,18,7,4,8,4,12,11,23,1,1,2
+9,1,39,1,1,13,9,22,2,24,0,1,8
+10,6,22,0,0,17,10,27,0,27,1,1,8
+11,1,28,0,0,2,2,4,0,4,0,0,2
+12,1,35,4,2,3,1,4,6,10,1,0,7
+13,7,17,2,2,14,5,19,4,23,0,1,5
+14,6,23,12,5,16,10,26,17,43,1,1,15
+15,1,30,8,5,7,5,12,13,25,0,1,11
+16,6,56,0,0,8,4,12,0,12,1,1,7
+17,1,20,9,3,3,3,6,12,18,0,0,6
+18,7,26,5,3,2,4,6,8,14,0,1,4
+19,1,42,10,7,1,8,9,17,26,0,0,8
